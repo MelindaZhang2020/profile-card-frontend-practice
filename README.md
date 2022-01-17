@@ -23,8 +23,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-profile-card-using-bootstrap-2Hckd4BjX)
+- Live Site URL: [Live site here](https://eager-archimedes-45170b.netlify.app/)
 
 ## My process
 
@@ -61,7 +61,7 @@ How to center an element in the center of a page?
 
 - Website - [Melinda Zhang](https://www.melinda-zhang.com)
 - Frontend Mentor - [@Melinda Zhang](https://www.frontendmentor.io/profile/MelindaZhang2020)
-- Twitter - [@yourusername](https://www.twitter.com/melindazhang4)
+- Twitter - [@melindazhang4](https://www.twitter.com/melindazhang4)
 
 
 

@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
 body{
     font-size: 18px;
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 700;
     overflow: hidden;
-    background-color: hsl(185, 75%, 39%)
+    background-color: hsl(185, 75%, 39%);
 }
   
 body::before, body::after {
@@ -36,6 +37,7 @@ body::after {
 .attribution a { 
     color: hsl(228, 45%, 44%);
  }
+ 
 .card {
     border-radius: 15px;
     position: absolute;
@@ -43,6 +45,7 @@ body::after {
     left: 50%;
     transform: translate(-50%, -50%);
     border: none;
+    
 }
 .victor {
     margin-top: -65px;
